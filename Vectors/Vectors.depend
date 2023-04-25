@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1651544664 source:c:\users\patri\onedrive\unh school work\csci-6610_intermediatec-c++\codeblock(c files)\vectors\item.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Item.hpp"
+
+1651544816 c:\users\patri\onedrive\unh school work\csci-6610_intermediatec-c++\codeblock(c files)\vectors\item.hpp
+	<iostream>
+	<string>
+
+1651544874 source:c:\users\patri\onedrive\unh school work\csci-6610_intermediatec-c++\codeblock(c files)\vectors\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Item.hpp"
+	"ItemCollection.hpp"
+
+1651865504 c:\users\patri\onedrive\unh school work\csci-6610_intermediatec-c++\codeblock(c files)\vectors\itemcollection.hpp
+	"Item.hpp"
+	<vector>
+
+1651865879 source:c:\users\patri\onedrive\unh school work\csci-6610_intermediatec-c++\codeblock(c files)\vectors\itemcollection.cpp
+	"ItemCollection.hpp"
+
